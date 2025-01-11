@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Beach Resort",
+    "city": "Miami",
+    "stars": 5,
+    "price_per_night": 250
+  }
+]

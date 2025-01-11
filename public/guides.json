@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Lidia", "last": "Ferrer" },
+      "location": { "city": "Talavera de la Reina", "state": "Valencia", "country": "Spain" },
+      "email": "lidia.ferrer@example.com",
+      "picture": { "large": "https://randomuser.me/api/portraits/women/91.jpg" },
+      "specialties": ["History", "Gastronomy"]
+    }
+  ]
+}
